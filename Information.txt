@@ -1,0 +1,19 @@
+Amount of time taken to write: All 4 hours
+
+I was not able to get all of the functionality for the conversion from numbers to roman numerals.
+Some of the tests I wrote would pass, but others would not.
+If I were given more time I would have continued to use a white-board and refine my algorithm. 
+I feel like I got most of that algorithm correct, but when I got down to the "I", "V", and "X" level, I had a hard
+time with the subtraction notation.
+To be honest, if I were permited to, I would have had someone come and look over my algorithm with me. I feel that another 
+set of eyes would have helped me greatly. Sometimes the rubber-duck method doesn't always work:)
+
+The Roman numeral to number conversion part of the program works great! I was very satisfied with the outcome of that part.
+
+Included with this repo is my executable, source code, and pictures of some white-board planning I did for both parts of the 
+program (Finite state machines and other notes). I have come to learn that proper planning before programming is essential and 
+it saved me a great deal of time.
+
+Thanks!
+
+PS: Even if I don't get an interview, I still really enjoyed the challenge!
